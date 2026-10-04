@@ -1,8 +1,10 @@
 # Lappland-Reise: Konsolidierter Variantenvergleich
 
-**Stand:** 28. September 2026  
+**Aktualisiert:** 4. Oktober 2026  
 **Reiseprofil & Annahmen:** Zwei sportlich aktive Erwachsene (ca. 65 Jahre alt). Fokus auf gelenkfreundlichen Langlauf-Einstieg, gut beleuchtete Loipen, kurze fußläufige Wege ohne Transferstress, Regeneration (eigene Sauna/Spa) und komfortable Flugzeiten (Vormittag hin / Nachmittag zurück).  
-Alle Preisangaben sind **Gesamtpreise für 2 Personen für 7 Nächte** inklusive Steuern.
+Alle Flug- und Unterkunftspreise sind unbestätigte Richtwerte für 2 Personen, keine Live-Angebote. Gepäck, Skiausrüstung, Transfers und Gebühren sind nur enthalten, wenn ausdrücklich genannt. Verfügbarkeit und Gesamtpreis für die konkreten Daten vor Buchung prüfen.
+
+> **Prüfhinweis (4.10.2026):** Levi eröffnete die Saison und die First-Snow-Loipe am 2. Oktober. Das belegt kein vollständig geöffnetes Loipennetz im November. Flug- und Unterkunftspreise sowie konkrete Anschlusszeiten sind anhand der Quellen nicht als buchbare Angebote bestätigt.
 
 > [!NOTE]
 > **Recherche- und Preisstandards:** Die verbindlichen Metasuch- und Erhebungsstandards (Google Flights, Google Hotels, Levi.fi / Visit Levi) sowie die Richtlinien für Sprachmodelle sind in [recherche-richtlinien.md](recherche-richtlinien.md) dokumentiert.
@@ -11,14 +13,14 @@ Alle Preisangaben sind **Gesamtpreise für 2 Personen für 7 Nächte** inklusive
 
 ## 1. Vergleich auf einen Blick
 
-| Option | Reiseziel & Zeitraum | Anreise & Flugzeiten ab BER | Unterkunft (7 Nächte) | Kosten für 2 Personen (Flug + Unterkunft)\* | Profil-Bewertung |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Option 1a (TOP-FAVORIT)** | **Levi (Di–Di)**<br>**17.–24.11.2026** | Finnair via HEL *(Komfortzeiten: 08:35 ab BER / 14:00 ab KTT)* | Studio in Levi *(Nebensaison)* | Flug ca. 800 € + Studio 550 € = **ca. 1.350 €** | ⭐⭐⭐⭐⭐ **Beste Kombination:** Weltcup-Schneegarantie, +45 Min. Tageslicht, günstigster Preis |
-| **Option 1b** | **Levi (Di–Di)**<br>**24.11.–01.12.2026** | Finnair via HEL *(Komfortzeiten: 08:35 ab BER / 14:00 ab KTT)* | Studio in Levi | Flug ca. 850 € + Studio 600 € = **ca. 1.450 €** | ⭐⭐⭐⭐⭐ Hoher Komfort & Nebensaison-Preise vor dem Dezember-Start |
-| **Option 1c** | **Levi (Sa–Sa)**<br>21.–28.11.2026 | Lufthansa via MUC *(06:00 ab BER / 14:15 ab KTT)*<br>*(oder Finnair Spitzentarif via HEL)* | Studio Levi Suites Levin Klubi | LH via MUC ca. 1.100 € + Studio 571 € = **ca. 1.671 €**<br>*(mit Finnair ca. 2.071 €)* | ⭐⭐⭐⭐ Solide Samstags-Option; früher Start in BER |
-| **Option 2** | **Rovaniemi (Sa–Sa)**<br>21.–28.11.2026 | Finnair via HEL | Green City Centre Studio | Flug 672 € + Studio 1.131 € = **1.803 €** | ⭐⭐⭐ Städtisches Ausweichprogramm; Loipen unsicherer |
-| **Option 3** | **Rovaniemi Direktflug**<br>01.–08.12.2026 (Di–Di) | easyJet Nonstop BER–RVN | Adorable Arctic Apartments | Flug ca. 450 € + Apartment 2.668 € = **ca. 3.118 €** | ⭐⭐ Bequemer Nonstop-Flug, aber extreme Unterkunftspreise |
-| **Option 4** | **Levi Direktflug**<br>19.–26.12.2026 (Sa–Sa) | Eurowings Nonstop BER–KTT | SkiStar Superior Studio mit Sauna | Direktflug ca. 800 € + Studio 1.655 € = **ca. 2.455 €** | ⭐⭐⭐ Bequeme Anreise, aber Weihnachtstrubel & Polarnacht |
+| Option                      | Reiseziel & Zeitraum                               | Anreise & Flugzeiten ab BER                                                                | Unterkunft (7 Nächte)             | Kosten für 2 Personen (Flug + Unterkunft)\*                                            | Profil-Bewertung                                                                                 |
+| :-------------------------- | :------------------------------------------------- | :----------------------------------------------------------------------------------------- | :-------------------------------- | :------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
+| **Option 1a (VORLÄUFIGER FAVORIT)** | **Levi (Di–Di)**<br>**17.–24.11.2026**             | Finnair via HEL _(Flugzeiten/Anschlüsse für Daten prüfen)_                             | Studio in Levi _(Nebensaison)_    | Flug ca. 800 € + Studio 550 € = **ca. 1.350 € Richtwert**                                        | ⭐⭐⭐⭐ Früher Saisonzeitraum; First-Snow-Angebot sicher, Umfang weiterer Loipen wetterabhängig |
+| **Option 1b**               | **Levi (Di–Di)**<br>**24.11.–01.12.2026**          | Finnair via HEL _(Flugzeiten/Anschlüsse für Daten prüfen)_                             | Studio in Levi                    | Flug ca. 850 € + Studio 600 € = **ca. 1.450 € Richtwert**                                        | ⭐⭐⭐⭐ Eine Woche später; Loipenumfang wetterabhängig                             |
+| **Option 1c**               | **Levi (Sa–Sa)**<br>21.–28.11.2026                 | Lufthansa via MUC _(06:00 ab BER / 14:15 ab KTT)_<br>_(oder Finnair Spitzentarif via HEL)_ | Studio Levi Suites Levin Klubi    | LH via MUC ca. 1.100 € + Studio 571 € = **ca. 1.671 € Richtwert**<br>_(mit Finnair ca. 2.071 €)_ | ⭐⭐⭐ Samstags-Option; Flugplan nicht verifiziert                                             |
+| **Option 2**                | **Rovaniemi (Sa–Sa)**<br>21.–28.11.2026            | Finnair via HEL                                                                            | Green City Centre Studio          | Flug 672 € + Studio 1.131 € = **1.803 € Richtwert**                                              | ⭐⭐⭐ Städtisches Ausweichprogramm; Loipen unsicherer                                           |
+| **Option 3**                | **Rovaniemi Direktflug**<br>01.–08.12.2026 (Di–Di) | easyJet Nonstop BER–RVN                                                                    | Adorable Arctic Apartments        | Flug ca. 450 € + Apartment 2.668 € = **ca. 3.118 € Richtwert**                                   | ⭐⭐ Bequemer Nonstop-Flug, aber extreme Unterkunftspreise                                       |
+| **Option 4**                | **Levi Direktflug**<br>19.–26.12.2026 (Sa–Sa)      | Eurowings Nonstop BER–KTT                                                                  | SkiStar Superior Studio mit Sauna | Direktflug ca. 800 € + Studio 1.655 € = **ca. 2.455 € Richtwert**                                | ⭐⭐⭐ Bequeme Anreise, aber Feiertagsnachfrage & sehr kurze Tage                                       |
 
 _\*Preise für 2 Erwachsene. Lokale Transfers, Verpflegung und Aktivitäten separat._
 
@@ -26,42 +28,40 @@ _\*Preise für 2 Erwachsene. Lokale Transfers, Verpflegung und Aktivitäten sepa
 
 ## 2. Detaillierte Reisevarianten
 
-### Option 1a: Levi unter der Woche (Di 17.11. – Di 24.11.2026) – DER TOP-FAVORIT
+### Option 1a: Levi unter der Woche (Di 17.11. – Di 24.11.2026) – VORLÄUFIGER FAVORIT
 
-* **Reisezeitraum:** Dienstag, 17. November bis Dienstag, 24. November 2026.
-* **Flugverbindung (Finnair via Helsinki):**
-  * **Hinflug:** Entspannter Vormittagsstart ab BER (z. B. 08:35 Uhr) ➔ Umstieg in HEL ➔ Ankunft Kittilä (KTT) um 14:15 Uhr.
-  * **Rückflug:** Abflug KTT 14:00 Uhr ➔ Ankunft BER 18:20 Uhr.
-  * **Tarif:** Classic-Tarif inkl. 23 kg Aufgabegepäck & Skiausrüstung ca. **750–850 € für 2 Erwachsene**.
-* **Unterkunft:** Studio in Levi (z. B. *Levi Suites* oder über *Levi.fi*) für **ca. 550–600 € für 7 Nächte** (günstige Nebensaison).
-* **Langlauf & Wintersport:** 
-  * **Weltcup-Schneegarantie:** Am Wochenende davor (14.–15.11.) fand der *Audi FIS Ski-Weltcup* statt – Pisten und Loipen sind mit riesigen Mengen konserviertem Schnee perfekt präpariert.
-  * Der Weltcup-Trubel ist vorbei, das Dorf ist ruhig und entspannt.
-  * Beleuchtete Loipen (*Valaistut ladut*) und 44 Alpinpisten als Plan B.
-* **Tageslicht:** Täglich ca. **4,5 bis 5 Stunden Dämmerungslicht** (ca. 45 Minuten mehr als Ende November).
-* **Kostenübersicht für 2 Personen:** **ca. 1.300 € – 1.450 € gesamt**.
+- **Reisezeitraum:** Dienstag, 17. November bis Dienstag, 24. November 2026.
+- **Flugverbindung:** Finnair via HEL ist als Option vorgesehen. Die früher genannten Uhrzeiten sind nicht durch ein buchbares Angebot belegt und weichen zwischen den Abschnitten ab. Flugnummern, Anschlüsse und Verfügbarkeit vor Buchung prüfen.
+  - **Tarif:** Ca. **750–850 € für 2 Erwachsene** als unbestätigter Richtwert; Gepäckbedingungen im konkreten Tarif prüfen.
+- **Unterkunft:** Studio in Levi (z. B. _Levi Suites_ oder über _Levi.fi_) für **ca. 550–600 € für 7 Nächte** (günstige Nebensaison).
+- **Langlauf & Wintersport:**
+  - **Saisonstart:** Die Slalomrennen finden am 14.–15.11.2026 statt (Veranstaltungszeitraum 13.–15.11.). Levi eröffnete am 2.10. mit konserviertem Schnee auf ausgewählten Pisten und der First-Snow-Loipe. Das garantiert keine präparierten Bedingungen im gesamten Loipennetz; aktuellen Status prüfen.
+  - Der Weltcup-Trubel ist vorbei, das Dorf ist ruhig und entspannt.
+  - Beleuchtete Loipen (_Valaistut ladut_) und 44 Alpinpisten als Plan B.
+- **Tageslicht:** Die Tage sind sehr kurz. Die Angabe von 4,5–5 Stunden Dämmerungslicht ist nicht als nutzbares Tageslicht belegt; Sonnenzeiten und beleuchtete Loipen getrennt betrachten.
+- **Kostenübersicht für 2 Personen:** **ca. 1.300 € – 1.450 € Richtwert**, nicht als Buchungspreis bestätigt.
 
 ---
 
 ### Option 1b: Levi unter der Woche (Di 24.11. – Di 01.12.2026)
 
-* **Reisezeitraum:** Dienstag, 24. November bis Dienstag, 1. Dezember 2026 (oder Mi 25.11. – Mi 02.12.).
-* **Flugverbindung:** Finnair via Helsinki zu identischen Vormittagszeiten ca. **750–900 € für 2 Erwachsene**.
-* **Unterkunft:** Studio in Levi für **ca. 571–650 € für 7 Nächte**.
-* **Kostenübersicht für 2 Personen:** **ca. 1.350 € – 1.550 € gesamt**.
-* **Bewertung:** Ebenfalls hervorragend; etwas höhere Wahrscheinlichkeit für zusätzlichen Neuschnee auf den Natur-Außenloipen, dafür ca. 45 Min. weniger Tageslicht pro Tag.
+- **Reisezeitraum:** Dienstag, 24. November bis Dienstag, 1. Dezember 2026 (oder Mi 25.11. – Mi 02.12.).
+- **Flugverbindung:** Finnair via Helsinki, konkrete Zeiten und Anschlüsse prüfen; **750–900 € für 2 Erwachsene** ist ein unbestätigter Richtwert.
+- **Unterkunft:** Studio in Levi für **ca. 571–650 € für 7 Nächte**.
+- **Kostenübersicht für 2 Personen:** **ca. 1.350 € – 1.550 € Richtwert**, nicht als Live-Angebot bestätigt.
+- **Bewertung:** Ebenfalls denkbar; zusätzlicher Neuschnee auf Naturloipen ist nicht vorhersagbar. Im Vergleich zur Vorwoche ist das Tageslicht kürzer.
 
 ---
 
 ### Option 1c: Levi von Samstag bis Samstag (Klassischer Turnus)
 
-* **Reisezeitraum:** Samstag, 21. bis Samstag, 28. November 2026.
-* **Flugverbindungen ab Berlin:**
-  * **Lufthansa via München:** BER 06:00 ➔ MUC 08:50 ➔ KTT 13:25 | Rückflug KTT 14:15 ➔ MUC ➔ BER 19:10. Classic-Tarif ca. **960–1.200 € für zwei**.
-  * **Finnair via Helsinki:** Vormittagsflug ab BER, Samstags-Spitzentarif ca. **1.400–1.600 € für zwei**.
-* **Unterkunft:** Studio bei Levi Suites Levin Klubi für **571 € / 7 Nächte**.
-* **Kostenübersicht für 2 Personen:** **ca. 1.671 € (mit Lufthansa)** bzw. **ca. 2.071 € (mit Finnair)**.
-* **Bewertung:** Gute Alternative bei starrem Samstag-Turnus; Lufthansa bietet die perfekte Rückflugzeit, verlangt aber frühes Aufstehen am Hinflug.
+- **Reisezeitraum:** Samstag, 21. bis Samstag, 28. November 2026.
+- **Flugverbindungen ab Berlin:**
+  - **Lufthansa via München:** BER 06:00 ➔ MUC 08:50 ➔ KTT 13:25 | Rückflug KTT 14:15 ➔ MUC ➔ BER 19:10. Classic-Tarif ca. **960–1.200 € für zwei**.
+  - **Finnair via Helsinki:** Vormittagsflug ab BER, Samstags-Spitzentarif ca. **1.400–1.600 € für zwei**.
+- **Unterkunft:** Studio bei Levi Suites Levin Klubi für **571 € / 7 Nächte**.
+- **Kostenübersicht für 2 Personen:** **ca. 1.671 € (mit Lufthansa)** bzw. **ca. 2.071 € (mit Finnair)**.
+- **Bewertung:** Gute Alternative bei starrem Samstag-Turnus; Lufthansa bietet die perfekte Rückflugzeit, verlangt aber frühes Aufstehen am Hinflug.
 
 ---
 
@@ -78,7 +78,7 @@ _\*Preise für 2 Erwachsene. Lokale Transfers, Verpflegung und Aktivitäten sepa
 ### Option 3: Rovaniemi mit easyJet-Direktflug (Anfang Dezember)
 
 - **Reisezeitraum:** Dienstag, 1. bis Dienstag, 8. Dezember 2026.
-- **Flugverbindung:** easyJet Nonstop BER ➔ RVN (Flugzeit ca. 2 Std. 40 Min., ca. **400–500 € für zwei** inkl. Gepäck).
+- **Flugverbindung:** Für Dienstag, 1.12.2026 ist easyJet BER–RVN nonstop im veröffentlichten Flugplan aufgeführt; Flugzeit ca. **2 Std. 50 Min.** Der Preis von **400–500 € für zwei** ist unbestätigt; Gepäck kann zusätzlich kosten.
 - **Unterkunft:** Adorable Arctic Apartments für **2.668 € / 7 Nächte** (starker Dezember-Preisanstieg).
 - **Kostenübersicht für 2 Personen:** **ca. 3.118 € gesamt**.
 - **Bewertung:** Schnellste Anreise ohne Umstieg, allerdings führen die explodierenden Dezember-Unterkunftspreise zu einem ungünstigen Preis-Leistungs-Verhältnis.
@@ -99,23 +99,23 @@ _\*Preise für 2 Erwachsene. Lokale Transfers, Verpflegung und Aktivitäten sepa
 
 ### 1. Kompaktheit & Barrierefreiheit (Levi vs. Rovaniemi)
 
-- **Levi:** Ein kompaktes Skidorf, in dem Unterkünfte, Loipeneinstiege, Skiverleih, Supermärkte, Restaurants und das Spa fußläufig erreichbar sind. Keine vereisten Straßenmärsche im Stadtverkehr.
+- **Levi:** Kompaktes Skidorf. Ob Unterkunft, Loipeneinstieg, Skiverleih, Einkauf und Spa ohne Transfer erreichbar sind, hängt von der Unterkunft ab. Lage, Weglängen, Steigungen und Winterwege prüfen.
 - **Rovaniemi:** Echte Stadt mit weiten Wegen; Sport auf dem Hausberg Ounasvaara und Außenaktivitäten erfordern regelmäßige Bus- oder Taxitransfers.
 
 ### 2. Langlauf-Bedingungen & Sicherheit
 
 - **Gelenkschonende Einstiege:** Levi bietet flache, breite Loipenabschnitte (z. B. um den Immeljärvi-See), die sich ideal für klassischen Diagonalschritt eignen.
-- **Beleuchtung & Einkehren:** Großzügig beleuchtete Hauptloipen (_Valaistut ladut_) für sicheres Laufen in der Dämmerung; zahlreiche Wärmestuben (_Kafilas_) für Heißgetränke und Pausen.
-- **Schneesicherheit:** Levi garantiert dank konserviertem Altschnee (_Snowfarming_) ab Anfang Oktober geöffnete Loipen und Alpinpisten.
+- **Beleuchtung & Einkehren:** Levi nennt 28 km beleuchtete Loipen; Öffnung und Beleuchtung der jeweiligen Strecke sowie Einkehrmöglichkeiten vor Ort prüfen.
+- **Schneesicherheit:** Levi eröffnet ab Oktober mit konserviertem Schnee eine First-Snow-Loipe und ausgewählte Pisten. Weitere Loipen und Pisten öffnen je nach Wetter- und Schneelage. Die Loipe im Golf/Draivi-Gebiet ist nicht automatisch von jeder Unterkunft aus erreichbar.
 
 ### 3. Saisondynamik & Tageslicht
 
-- **Ende November:** Rund 4 bis 5 Stunden nutzbares Dämmerlicht; ruhige Sportler-Atmosphäre; moderate Kälte (-3 °C bis -10 °C), die Kreislauf und Atemwege schont.
-- **Weihnachten:** Tiefste Polarnacht mit nur 2–3 Stunden Restlicht; überlaufene Sehenswürdigkeiten und stark verteuerte Unterkünfte.
+- **Ende November:** Sehr kurze Tage; nutzbares Tageslicht hängt von Datum und Definition ab. Beleuchtete Loipen ermöglichen Sport auch außerhalb der hellen Stunden. Temperaturen sind nicht zuverlässig als feste Spanne vorherzusagen.
+- **Weihnachten:** Um die Wintersonnenwende geht die Sonne in Levi nicht auf, es gibt aber Dämmerungslicht. Hohe Nachfrage und Preise sind möglich, für die konkrete Unterkunft prüfen.
 
 ### 4. Transfer vom Flughafen Kittilä nach Levi
 
-- Der Flughafen Kittilä liegt nur **15 km von Levi** entfernt. Der reguläre Flughafenbus fährt passend zu allen Flügen in **20–30 Minuten** direkt ins Dorf (ca. 10–15 € p. P.).
+- Levi gibt an, dass Flughafenbusse zwischen Kittilä und Levi auf Flüge abgestimmt werden. Fahrzeit und Tarif für die konkrete Verbindung sind nicht bestätigt; Fahrplan und Preis vor der Reise prüfen. Die Entfernung beträgt ungefähr 15 km.
 
 ---
 
@@ -124,7 +124,7 @@ _\*Preise für 2 Erwachsene. Lokale Transfers, Verpflegung und Aktivitäten sepa
 > [!NOTE]
 > **Hinweis zur Dokumentation:** Aufgrund der klaren Tendenz zu Levi wurden die dortigen Aktivitäten vertiefend erfasst.
 
-1. **Alpinski als Plan B:** Finnlands größtes Skigebiet (44 Pisten, 26 Lifte, Weltcup-Austragungsort) liegt direkt im Ort; vordere Pisten öffnen ab Oktober.
+1. **Alpinski als Plan B:** Levi hat insgesamt 44 Pisten und 26 Lifte. Im Oktober sind zunächst nur ausgewählte Pisten geöffnet; welche Anlagen im November verfügbar sind, hängt von Saisonverlauf und aktuellem Status ab.
 2. **Arktische Safaris:** Geführte Husky-Schlittentouren, samische Rentierfarmen (z. B. _Sammuntupa_) mit Schlittenfahrten, leise Elektro-Schneemobile (_eSleds_) und Eisfischen (_Pilkkiminen_).
 3. **Kultur & Mythologie:** UNESCO-Ausstellung _Samiland_ auf dem Fjell; idyllisches Wichteldorf _Elves Village (Tonttula)_ in Könkään.
 4. **Wellness & Regeneration:** Eigene Privatsauna im Apartment, _Levi Spa Water World_ im Ortszentrum und traditionelle Rauchsauna mit Eislochbaden (_Avanto_) am Immeljärvi-See.
@@ -134,13 +134,13 @@ _\*Preise für 2 Erwachsene. Lokale Transfers, Verpflegung und Aktivitäten sepa
 
 ## 5. Fazit & Handlungsempfehlung
 
-- **Die Top-Empfehlung:** **Option 1a (Levi unter der Woche, Di 17.11. – Di 24.11.2026)**.
-- **Warum diese Woche perfekt ist:**
-  1. **Weltcup-Schneequalität:** Ihr profitiert direkt von den riesigen Schneereserven des *FIS Ski-Weltcups* (14.–15.11.), ohne den Event-Trubel mitzuerleben.
-  2. **Mehr Tageslicht:** Täglich ca. 45 Minuten mehr Dämmerungslicht als Ende November.
-  3. **Bester Preis:** Bequeme Vormittagsflüge mit Finnair (ca. 800 € für 2 inkl. Gepäck) + Nebensaison-Studio (ca. 550 €) = **nur ca. 1.350 € Gesamtkosten**.
-- **Alternative:** **Option 1b (24.11. – 01.12.)**, falls die Reise eine Woche später stattfinden soll (ca. 1.450 € gesamt).
-- **Falls Samstag Pflicht ist:** **Option 1c mit Lufthansa via München** für ca. 1.671 € Gesamtpaket buchen.
+- **Vorläufige Empfehlung:** **Option 1a (Levi, Di 17.11. – Di 24.11.2026)**, sofern Flug und Unterkunft zu den Richtpreisen verfügbar sind und die First-Snow-Loipe als Langlaufangebot genügt.
+- **Gründe für diese Woche:**
+  1. **Saisonbeginn:** Die Woche folgt auf die Slalomrennen am 14.–15.11.; Weltcup-Schnee belegt keine präparierten Loipen im gesamten Gebiet.
+  2. **Tageslicht:** Anfang November ist es heller als später; die Differenz von 45 Minuten ist nicht belegt.
+  3. **Preis:** Ca. 800 € Flug und 550 € Unterkunft ergeben **ca. 1.350 € als unbestätigten Richtwert**. Ein Live-Angebot samt Gepäck und Gebühren liegt nicht vor.
+- **Alternative:** **Option 1b (24.11. – 01.12.)**, falls die Reise eine Woche später stattfinden soll (ca. 1.450 € Richtwert).
+- **Falls Samstag Pflicht ist:** **Option 1c mit Umsteigeverbindung** erwägen; Flugplan und Gesamtpreis (bisher ca. 1.671 € Richtwert) zuerst konkret verifizieren.
 
 ---
 
@@ -150,7 +150,10 @@ _\*Preise für 2 Erwachsene. Lokale Transfers, Verpflegung und Aktivitäten sepa
 
 - [Levi: Anreise, Flugtage und Transfer ab Kittilä](https://www.levi.fi/en/info/general/arrival-at-levi/)
 - [Levi: First-Snow-Loipe & Loipenstatus](https://www.levi.fi/en/ski/cross-country-skiing/levi-first-snow-ski-track/)
-- [Levi: Saisoneröffnung 2026/27 & Programm](https://www.levi.fi/en/events/winter-season-opening-2026-2027/)
+- [Levi: Saisoneröffnung 2026](https://skiresort.levi.fi/en/season-opening)
+- [Levi: First-Snow-Loipe und Bedingungen](https://www.levi.fi/en/ski/cross-country-skiing/levi-first-snow-ski-track/)
+- [Levi: Schneegarantie und Öffnung nach Bedingungen](https://www.levi.fi/en/info/levi-ski-resort/responsibility-program/levis-7-month-snow-guarantee/)
+- [Levi: Weltcup 2026 und frühe Wintersaison](https://www.levi.fi/en/news-and-stories/early-winter-in-levi/)
 - [Levi: Langlauf & Skischulübersicht](https://www.levi.fi/en/ski/cross-country-skiing/)
 - [Levi Ski School: Kursbuchung](https://www.levi.fi/en/ski/ski-school/)
 - [Levi.fi / Visit Levi: Offizielles Unterkunftsportal](https://www.levi.fi/en/accommodation)
